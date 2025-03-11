@@ -33,8 +33,10 @@ print(response.text)
 - This method does not exploit or modify any system, it simply bypasses an unnecessary security check.
 
 ## Disclaimer
+
 This repository is for educational purposes only. Use responsibly.
 
 ## Credits
 notlit : `notlit_3` ( Discord )
+
 Join here for more : https://discord.gg/notlituwu
