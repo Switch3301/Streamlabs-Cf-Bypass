@@ -38,5 +38,4 @@ This repository is for educational purposes only. Use responsibly.
 
 ## Credits
 notlit : `notlit_3` ( Discord )
-
-Join here for more : https://discord.gg/notlituwu
+Switch : `kykuj2a2ly4` ( Discord)
