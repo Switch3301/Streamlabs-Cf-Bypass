@@ -38,4 +38,5 @@ This repository is for educational purposes only. Use responsibly.
 
 ## Credits
 notlit : `notlit_3` ( Discord )
+
 Switch : `kykuj2a2ly4` ( Discord)
